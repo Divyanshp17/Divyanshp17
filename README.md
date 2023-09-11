@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Divyansh
+- 👋 Hi, I’m Divyansh
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Angular and TenserFlow
 - 💞️ I’m looking to collaborate on Angular
